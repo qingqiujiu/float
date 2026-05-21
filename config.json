@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "general": {
+    "refresh_interval_seconds": 300,
+    "window_opacity": 0.85,
+    "always_on_top": true,
+    "window_x": null,
+    "window_y": null
+  },
+  "api": {
+    "api_key": "",
+    "user_token": ""
+  }
+}
