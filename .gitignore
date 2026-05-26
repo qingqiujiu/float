@@ -1,0 +1,33 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs and local runtime files
+*.log
+crash.log
+
+# Build and packaging outputs
+build/
+dist/
+*.spec.bak
+*.zip
+*.exe
+
+# PyInstaller outputs under the packaging folder
+dabao/build/
+dabao/dist/
+
+# Local editor/assistant state
+.vscode/
+.idea/
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
